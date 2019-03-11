@@ -1,3 +1,5 @@
 Primeira linha do arquivo
-
 segunda linha arquivo 1 para branch final conflict
+
+segunda linha do arquivo 1 para branch final
+

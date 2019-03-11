@@ -1,3 +1,7 @@
 primeira linha do arquivo 2
 
+
 segunda linha arquivo 1 para branch final
+
+segunda linha para arquivo 2 para branch final
+
